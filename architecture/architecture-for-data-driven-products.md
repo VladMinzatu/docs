@@ -8,7 +8,7 @@ The engineers typically have a Computer Science background and their main role i
 But with the right architecture, data scientists can focus on their core skills, writing production code for predictive modeling, without having to tackle too many pure engineering challenges, but also without losing track of how their code integrates with the rest of the system. The architecture should allowfast iteration and make it possible to have data scientists' insights into the data be tested live as soon as they can produce them
 
 ### The architecture
-![Architecture Diagram]({{ site.url }}/assets/data-product-architecture.png)
+![Architecture Diagram](resources/data-product-architecture.png)
 
 #### 1. The data
 You cannot have a data-driven product without data so this is a fundamental building block of the whole system. As outlined in the diagram, this includes both the data produced by your system (e.g. logs of user interactions with the system) as well as external data sources. These data sources can be from 3rd party providers or they may be from other teams in the same company.
