@@ -15,3 +15,6 @@
   * https://codahale.com/you-cant-sacrifice-partition-tolerance/
 * The Log
   * https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
+* Systems Engineering & Ops
+  * https://landing.google.com/sre/book.html
+  * "Systems Performance: Enterprise and the Cloud" (B. Gregg)
