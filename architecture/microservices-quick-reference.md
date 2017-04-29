@@ -140,3 +140,7 @@ Via Correlation IDs: when a call is made to the initial service, generate a UID 
 
 ### Handling failure at scale
 Failure is inevitable. Don't just focus on trying to prevent things from failing, focus on being able to recover quickly.
+
+
+## References
+ * Sam Newman - Building Microservices (2015) (https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
