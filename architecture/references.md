@@ -18,3 +18,6 @@
 * Systems Engineering & Ops
   * https://landing.google.com/sre/book.html
   * "Systems Performance: Enterprise and the Cloud" (B. Gregg)
+* Event Driven Architecture
+  * https://martinfowler.com/articles/201701-event-driven.html
+  * https://www.youtube.com/watch?v=STKCRSUsyP0
