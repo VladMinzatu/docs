@@ -5,30 +5,44 @@ The aim of this document is to outline the main considerations that go into desi
 
 Having said that, the architecture is quite specific and incorporates certain design decisions where alternatives would certainly be possible. Again, the goal is to highlight the requirements and constraints that one needs consider when designing such applications.
 
-### The architecture diagram
-
 ### Guiding principles
 - use the right tools for the job, but avoid technology overload. You may want to use Spark and tensorflow side-by-side, but your old Hadoop jobs maybe should be migrated to Spark as well. Prefer building competence in the technologies you use rather than choosing a 4th language for the 3rd service you're implementing.
 - reduce the number of services/moving parts (e.g. rely on the message bus for moving data around for any purpose, group functionality into a small set of services/components, but avoid building monoliths, while maintaining high-cohesion and loose coupling)
 
-### Documentation
-Have a high level spec with a diagram (similar to above) and link to it repositories and technologies used.
-Be clear about what needs to be documented and make absolutely sure that it is always done! Documentation is worthless if it's not maintained and maintaining it takes a **lot** of disciplin. My guideline: it's worth being disciplined with the documentation from the start, but keep it high-level enough that it doesn't become too much of a burden. 
+### The high-level architecture
+The following main components form the architecture:
+- The messaging bus is the backbone for moving data around between the services that need it. Everything that is written to the messaging bus is persisted in the data lake.
+- Batch processing components
+- Stream processing componenets
+- Model storage
+- Function repository and API
+- Configuration, Simulation and monitoring Front-End
 
-### The three modes of computation
-Move things offline as far as possible
-The architectural components:
-- batch jobs - output queriable
-- streaming jobs - output queriable
-- API/FE: registry of functions which have access to the queriable output and implement arbitrary logic.
+### Batch processing components
+For ad-hoc analysis document the results along with the code in a central location.
 
-### Quality monitoring
-Logging on request level => live monitoring of performance and KPIs and data for ad-hoc analysis later.
-Offline evaluation results
-Ad-hoc analysis - make sure you have a way to reference it all
-Move all metrics over the message bus (offline eval, online kpis)
+
+### Stream processing componenets
+### Model storage
+### Function repository and API
+Request-response component (low-latency API).
+Implement arbitrary logic on top of integrating with the different model storages and external APIs.
+
+### Configuration, Simulation and monitoring Front-End
+Combine different functions (e.g. fallback logic).
+Document the busines cases close to the configuration, referencing tasks.
+
+
+### Overarching concerns
+#### Monitoring
+Both performance monitoring and quality monitoring should rely on events pushed to the messaging bus.
+These events should have standard formats to be processed by the centralized monitoring service and have the different services push events of those types.
+
+Push data for ad-hoc analysis later.
 Implement alerting at a high level and have finer-grained metrics in place for deep-dives.
 
-### Business use-cases
-That was the fun part. Now that we have a good infrastructure in place, product can use it to drive business use cases.
-- write down use cases and link them to implementation (in the front-end?)
+#### AB Testing
+
+#### Documentation
+Have a high level spec with a diagram (similar to above) and link to it repositories and technologies used.
+Be clear about what needs to be documented and make absolutely sure that it is always done! Documentation is worthless if it's not maintained and maintaining it takes a **lot** of disciplin. My guideline: it's worth being disciplined with the documentation from the start, but keep it high-level enough that it doesn't become too much of a burden. 
