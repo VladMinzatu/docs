@@ -46,3 +46,7 @@ Implement alerting at a high level and have finer-grained metrics in place for d
 #### Documentation
 Have a high level spec with a diagram (similar to above) and link to it repositories and technologies used.
 Be clear about what needs to be documented and make absolutely sure that it is always done! Documentation is worthless if it's not maintained and maintaining it takes a **lot** of disciplin. My guideline: it's worth being disciplined with the documentation from the start, but keep it high-level enough that it doesn't become too much of a burden. 
+
+
+#### Offline evaluation 
+Triggered on new model being built (before serving) and for ad-hoc tasks
