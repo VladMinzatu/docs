@@ -52,6 +52,15 @@
 * https://www.youtube.com/watch?v=fU9hR3kiOK0
 * https://medium.com/@hugo.oliveira.rocha/what-they-dont-tell-you-about-event-sourcing-6afc23c69e9a
 
+### Tools
+* https://community.cloud.databricks.com/
+* https://github.com/kubeflow/kubeflow
+* http://jupyter.org/
+* https://toree.incubator.apache.org/
+* https://airflow.apache.org/
+* https://github.com/mlflow/mlflow
+* http://www.cs.cmu.edu/~apoms/blog/scanner/2018/05/21/scanner.html
+
 ## Machine Learning Engineering
 * https://developers.google.com/machine-learning/guides/
 * https://ai.google/research/pubs/pub43146
@@ -71,15 +80,6 @@
 * https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057
 * https://www.tensorflow.org/
 * https://guillaumegenthial.github.io/testing.html
-
-### Tools
-* https://community.cloud.databricks.com/
-* https://github.com/kubeflow/kubeflow
-* http://jupyter.org/
-* https://toree.incubator.apache.org/
-* https://airflow.apache.org/
-* https://github.com/mlflow/mlflow
-* http://www.cs.cmu.edu/~apoms/blog/scanner/2018/05/21/scanner.html
 
 ## Management
 * https://productcoalition.com/agile-gone-wrong-725c3f0dd8c0
