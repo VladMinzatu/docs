@@ -27,6 +27,7 @@
 ## Backend Engineering
 * https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882
 * https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164
+* https://www.youtube.com/watch?v=nZcLHkORdHE&feature=youtu.be
 ### Algorithms
 * https://stackoverflow.com/questions/16257378/is-there-a-generic-way-to-memoize-in-scala
 * https://queue.acm.org/detail.cfm?id=3220266
@@ -60,6 +61,7 @@
 * https://airflow.apache.org/
 * https://github.com/mlflow/mlflow
 * http://www.cs.cmu.edu/~apoms/blog/scanner/2018/05/21/scanner.html
+* https://selectstarsql.com/
 
 ## Machine Learning Engineering
 * https://developers.google.com/machine-learning/guides/
@@ -74,6 +76,8 @@
 * https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime
 * https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf
 * https://acmccs.github.io/papers/p1285-duA.pdf
+* https://github.com/andri27-ts/60_Days_RL_Challenge
+* https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks
 
 ### Tools
 * https://www.datascienceatthecommandline.com/
