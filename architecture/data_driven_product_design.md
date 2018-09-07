@@ -10,6 +10,7 @@
 - message bus
 - persistent storage
 - batch processing
+- ad-hoc analysis (notebooks)
 - stream processing
 - serving
 - monitoring
