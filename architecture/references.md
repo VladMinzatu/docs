@@ -42,6 +42,7 @@
 ## Data Engineering
 * http://blog.cloudera.com/blog/2010/04/cap-confusion-problems-with-partition-tolerance/
 * https://codahale.com/you-cant-sacrifice-partition-tolerance/
+* https://medium.com/netflix-techblog/notebook-innovation-591ee3221233
 
 ### Streaming Systems
 * https://www.amazon.com/Streaming-Systems-Where-Large-Scale-Processing/dp/1491983876
@@ -78,6 +79,7 @@
 * https://acmccs.github.io/papers/p1285-duA.pdf
 * https://github.com/andri27-ts/60_Days_RL_Challenge
 * https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks
+* http://karpathy.github.io/2016/05/31/rl/
 
 ### Tools
 * https://www.datascienceatthecommandline.com/
