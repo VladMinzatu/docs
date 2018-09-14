@@ -89,3 +89,4 @@
 
 ## Management
 * https://productcoalition.com/agile-gone-wrong-725c3f0dd8c0
+* https://www.slideshare.net/TanyaReilly/being-glue
