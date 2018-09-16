@@ -43,6 +43,8 @@
 * http://blog.cloudera.com/blog/2010/04/cap-confusion-problems-with-partition-tolerance/
 * https://codahale.com/you-cant-sacrifice-partition-tolerance/
 * https://medium.com/netflix-techblog/notebook-innovation-591ee3221233
+* https://medium.com/netflix-techblog/scheduling-notebooks-348e6c14cfd6
+* https://medium.com/netflix-techblog/keystone-real-time-stream-processing-platform-a3ee651812a
 
 ### Streaming Systems
 * https://www.amazon.com/Streaming-Systems-Where-Large-Scale-Processing/dp/1491983876
