@@ -45,6 +45,7 @@
 * https://medium.com/netflix-techblog/notebook-innovation-591ee3221233
 * https://medium.com/netflix-techblog/scheduling-notebooks-348e6c14cfd6
 * https://medium.com/netflix-techblog/keystone-real-time-stream-processing-platform-a3ee651812a
+* https://medium.com/netflix-techblog/stream-processing-with-mantis-78af913f51a6
 
 ### Streaming Systems
 * https://www.amazon.com/Streaming-Systems-Where-Large-Scale-Processing/dp/1491983876
@@ -70,6 +71,8 @@
 * https://developers.google.com/machine-learning/guides/
 * https://ai.google/research/pubs/pub43146
 * http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html
+* https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45742.pdf (Google ML Test Score)
+* http://datadriven.club/ (Data Driven Products now)
 
 ### Theory
 * https://developers.google.com/machine-learning/crash-course/ml-intro
