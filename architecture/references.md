@@ -95,3 +95,4 @@
 ## Management
 * https://productcoalition.com/agile-gone-wrong-725c3f0dd8c0
 * https://www.slideshare.net/TanyaReilly/being-glue
+* https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a
