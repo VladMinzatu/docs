@@ -77,6 +77,8 @@ Define a small set of clear metrics and monitor them for each context, as a meas
 
 General monitroing tips apply: not too many metrics and make them comparable across models and contexts and in across time intervals and make them actionable. Higher level metrics can catch more types of errors, but only in the case of big differences. Decide on one or two such metrics, if any. Finer grained metrics are more actionable, but you shouldn't create too many of them, because they come with a maintenance cost. 
 
+The monitoring should ideally be based on events that are logged for each invocation of the service. The events can be more verbose and allow for deep-dives (ad-hoc analysis) in case the metrics indicate a potential issue. The events should still be published at the gateway level, but can allow arbitrary metadata to be injected by the models (through the returned responses) to facilitate analysis. Live dashboards and alerting should not rely on this, so structure can be kept fairly loose.
+
 This monitoring should of course be integrated with the general monitoring infrastructure.
 
 #### Keep the gateway service simple
@@ -90,3 +92,4 @@ So essentially, the domain would have two entities: a **context** and a **model*
 
 Again, keep configuration to a minimum, because it makes it very hard to keep track of quality metrics. For example, instead of implementing dynamic filtering capabilities, prefer creating separate contexts for which you get monitoring out of the box. The filtering will still need to be done, but push things back from the serving, for improvements in both performance and clarity.
 
+Beyond pairing contexts and models, the gateway can include capabilities of combining different moels in hierarchies and configuring how to communicate the outcome of the serving to the user. But the main point is: you want very good clarity into what is going on at this level, so the fewer concepts, the better. 
