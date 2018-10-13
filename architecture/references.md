@@ -73,6 +73,7 @@
 * http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html
 * https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45742.pdf (Google ML Test Score)
 * http://datadriven.club/ (Data Driven Products now)
+* https://github.com/jeanigarcia/recsys2018-evaluation-tutorial/blob/master/README.md
 
 ### Theory
 * https://developers.google.com/machine-learning/crash-course/ml-intro
@@ -93,6 +94,7 @@
 * https://guillaumegenthial.github.io/testing.html
 
 ## Management
+* https://www.7pace.com/blog/become-a-better-programmer-skills-development
 * https://productcoalition.com/agile-gone-wrong-725c3f0dd8c0
 * https://www.slideshare.net/TanyaReilly/being-glue
 * https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a
