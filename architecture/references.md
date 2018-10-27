@@ -56,6 +56,7 @@
 * https://www.youtube.com/watch?v=STKCRSUsyP0
 * https://www.youtube.com/watch?v=fU9hR3kiOK0
 * https://medium.com/@hugo.oliveira.rocha/what-they-dont-tell-you-about-event-sourcing-6afc23c69e9a
+* https://highlyscalable.wordpress.com/2013/08/20/in-stream-big-data-processing/
 
 ### Tools
 * https://community.cloud.databricks.com/
@@ -79,8 +80,11 @@
 * https://developers.google.com/machine-learning/crash-course/ml-intro
 * https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291
 * https://github.com/ageron/handson-ml
+* https://timvieira.github.io/blog/post/2017/04/21/how-to-test-gradient-implementations/
 * https://www.coursera.org/specializations/mathematics-machine-learning
+* http://ufldl.stanford.edu/tutorial/
 * https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime
+* https://towardsdatascience.com/lets-code-a-neural-network-in-plain-numpy-ae7e74410795
 * https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf
 * https://acmccs.github.io/papers/p1285-duA.pdf
 * https://github.com/andri27-ts/60_Days_RL_Challenge
