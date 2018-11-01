@@ -47,6 +47,12 @@
 
 # Computer Vision
 * https://www.kaggle.com/c/quickdraw-doodle-recognition/kernels
+* https://www.kaggle.com/thekiingslayer/mnist-tensorflow-deepcnn
+* https://www.kaggle.com/amarjeet007/visualize-cnn-with-keras
+* https://www.kaggle.com/bbloggsbott/understanding-convolutional-neural-network
+
+# Audio Data
+* https://www.kaggle.com/fizzbuzz/beginner-s-guide-to-audio-data
 
 # Factorization Machines
 * https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf
