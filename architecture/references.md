@@ -76,27 +76,6 @@
 * http://datadriven.club/ (Data Driven Products now)
 * https://github.com/jeanigarcia/recsys2018-evaluation-tutorial/blob/master/README.md
 
-### Theory
-* https://developers.google.com/machine-learning/crash-course/ml-intro
-* https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291
-* https://github.com/ageron/handson-ml
-* https://timvieira.github.io/blog/post/2017/04/21/how-to-test-gradient-implementations/
-* https://www.coursera.org/specializations/mathematics-machine-learning
-* http://ufldl.stanford.edu/tutorial/
-* https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime
-* https://towardsdatascience.com/lets-code-a-neural-network-in-plain-numpy-ae7e74410795
-* https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf
-* https://acmccs.github.io/papers/p1285-duA.pdf
-* https://github.com/andri27-ts/60_Days_RL_Challenge
-* https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks
-* http://karpathy.github.io/2016/05/31/rl/
-
-### Tools
-* https://www.datascienceatthecommandline.com/
-* https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057
-* https://www.tensorflow.org/
-* https://guillaumegenthial.github.io/testing.html
-
 ## Management
 * https://www.7pace.com/blog/become-a-better-programmer-skills-development
 * https://productcoalition.com/agile-gone-wrong-725c3f0dd8c0
