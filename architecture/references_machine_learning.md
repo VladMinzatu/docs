@@ -6,6 +6,7 @@
 * https://github.com/jakevdp/PythonDataScienceHandbook
 * https://www.datascienceatthecommandline.com/
 * https://www.tensorflow.org/
+* https://github.com/Hvass-Labs/TensorFlow-Tutorials
 * https://guillaumegenthial.github.io/testing.html
 * http://jupyter.org/
 
