@@ -3,6 +3,7 @@
 
 # Tools
 * https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057
+* https://github.com/jakevdp/PythonDataScienceHandbook
 * https://www.datascienceatthecommandline.com/
 * https://www.tensorflow.org/
 * https://guillaumegenthial.github.io/testing.html
