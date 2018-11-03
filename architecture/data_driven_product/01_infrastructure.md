@@ -16,6 +16,11 @@ Stay DRY and avoid duplication of efforts, increased costs and maintenance overh
 
 However, while platform thinking is a great thing, creating central services introduces a tradeoff between flexibility and convenience. Offering central services for basic infrastructure tasks (deploying and monitoring), plus documentation on how to deploy different kinds of applications may be preferable to investing in building fully managed central services for specific kinds of applications. These can be very expensive to develop and may end up being too restrictive. Also, staying DRY needn't be done at all costs. All central services need to be supported in the long run. If that cannot be guaranteed, some duplication of efforts across different teams is probably preferable to begin with.
 
+## Rule: Make all data available for different integration options
+In a microservices architecture, each service owns its data and most commonly exposes it via a REST API. However, whenever possible, don't forget about the other forms of integration between different services: specifically message passing.
+
+Making the data available as a stream in the central message bus makes those data efficiently usable for streaming and batch jobs as well. Treating the stream as first class allows other services to integrate with the data in ways that are potentially more efficient for their purpose than the way your service would expose it via the main API.
+
 ## Rule: Document the use of the infrastructure centrally
 
 Have central documentation for using the infrastructure. Maintaining comprehensive documentation is also a good way to spot processes that can be made more efficient.
