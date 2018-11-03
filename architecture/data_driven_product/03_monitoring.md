@@ -1,6 +1,6 @@
 # Monitoring
 
-# Rule: Define quality metrics
+## Rule: Define quality metrics
 
 Qualitative measurement of the service's performance is crucial (in addition to the technical health), because for a data-driven service, not all HTTP 200 responses may be the same. And checking the model offline is not sufficient because other things can go wrong at serving time: external data sources fail, models are not updated properly, etc.
 
@@ -12,11 +12,11 @@ The monitoring should ideally be based on events that are logged for each invoca
 
 This monitoring should of course be integrated with the general monitoring infrastructure.
 
-# Rule: Don't ignore the data pipelines
+## Rule: Don't ignore the data pipelines
 
 The same monitoring recommendations apply to data pipelines. Have quality metrics, like coverage and offline evaluation scores and push metrics from batch and streaming jobs to the centralized monitoring system to take advantage of the standard tooling around alerting, graphing and outlier detection.
 
 For batch jobs, include sanity checks and offline evaluation as part of the DAG and fail the whole pipeline if something fails.
 
-# Rule: Use CI/CD and immutable deployments throughout the stack (including data pipelines)
+## Rule: Use CI/CD and immutable deployments throughout the stack (including data pipelines)
 With a typical production service, you create a new artifact and deploy automatically after a merge to master. This should apply to the model services, their data and the trained models themselves: when a DAG succeeds, this shoudl trigger a redeployment, with self-contained references to immutable model versions and service builds. 
