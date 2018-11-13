@@ -1,3 +1,5 @@
+# Management
+
 ## Rule: Separate the product from the technical implementation
 
 The product may be used in different contexts with the aim of optimizing different KPIs. 
