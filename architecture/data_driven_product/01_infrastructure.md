@@ -19,7 +19,7 @@ However, while platform thinking is a great thing, creating central services int
 ## Rule: Make all data available for different integration options
 In a microservices architecture, each service owns its data and most commonly exposes it via a REST API. However, whenever possible, don't forget about the other forms of integration between different services: specifically message passing.
 
-Making the data available as a stream in the central message bus makes those data efficiently usable for streaming and batch jobs as well. Treating the stream as first class allows other services to integrate with the data in ways that are potentially more efficient for their purpose than the way your service would expose it via the main API.
+Making the data available as a stream in the central message bus makes those data efficiently usable for streaming and batch jobs as well. Treating the stream as first class by making it part of your data pipeline allows other services to integrate with the data in ways that are potentially more efficient for their purpose than the way your service would expose it via the main API.
 
 ## Rule: Document the use of the infrastructure centrally
 
