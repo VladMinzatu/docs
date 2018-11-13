@@ -44,6 +44,7 @@
 * https://towardsdatascience.com/lets-code-a-neural-network-in-plain-numpy-ae7e74410795
 
 # Reinforcement Learning
+* https://gym.openai.com/
 * http://karpathy.github.io/2016/05/31/rl/
 * https://github.com/andri27-ts/60_Days_RL_Challenge
 
@@ -60,4 +61,5 @@
 * https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf
 
 # Model Explanations
+* https://pair-code.github.io/what-if-tool/
 * https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime
