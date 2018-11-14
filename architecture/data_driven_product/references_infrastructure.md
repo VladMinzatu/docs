@@ -7,6 +7,7 @@
 * https://jvns.ca/blog/2018/07/24/ip-addresses-routing/
 
 # Monitoring
+* https://docs.google.com/presentation/d/1rOIrF8zwB4ACNKG_xq_zvXW2aKhjyu5P4aQSF1wzRyw/edit?usp=sharing
 * https://landing.google.com/sre/book.html
 * http://distributed-systems-observability-ebook.humio.com/
 * https://kubernetes.io/docs/tasks/debug-application-cluster/resource-usage-monitoring/
