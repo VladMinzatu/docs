@@ -5,13 +5,11 @@
 * https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057
 * https://github.com/jakevdp/PythonDataScienceHandbook
 * https://www.datascienceatthecommandline.com/
-
 * https://www.tensorflow.org/
+* https://github.com/Hvass-Labs/TensorFlow-Tutorials
 * https://www.tensorflow.org/deploy/distributed
 * https://github.com/uber/horovod
 * https://arxiv.org/pdf/1603.02339.pdf
-
-* https://github.com/Hvass-Labs/TensorFlow-Tutorials
 * https://guillaumegenthial.github.io/testing.html
 * http://jupyter.org/
 
