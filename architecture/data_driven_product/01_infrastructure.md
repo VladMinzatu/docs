@@ -21,12 +21,6 @@ In a microservices architecture, each service owns its data and most commonly ex
 
 Making the data available as a stream in the central message bus makes those data efficiently usable for streaming and batch jobs as well. Treating the stream as first class by making it part of your data pipeline allows other services to integrate with the data in ways that are potentially more efficient for their purpose than the way your service would expose it via the main API.
 
-## Rule: Document the use of the infrastructure centrally
-
-Have central documentation for using the infrastructure. Maintaining comprehensive documentation is also a good way to spot processes that can be made more efficient.
-
-Documentation should include a playbook of best practices for intervention in case of incidents.
-
 ## Case Study
 
 In the following, I want to give an example tech stack. The example is meant to capture the rules above, but also goes beyond that, mentioning very specific choices of technologies. Countless (and potentially arguably better) other options are available. I will not justify my choices.
