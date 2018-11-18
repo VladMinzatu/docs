@@ -16,6 +16,7 @@
 # Theory
 * https://www.coursera.org/specializations/mathematics-machine-learning
 * https://timvieira.github.io/blog/post/2017/04/21/how-to-test-gradient-implementations/
+* https://www.kaggle.com/mjbahmani/linear-algebra-for-data-scientists
 
 # Data Exploration
 * https://www.kaggle.com/pmarcelino/data-analysis-and-feature-extraction-with-python
