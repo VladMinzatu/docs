@@ -33,6 +33,7 @@
 * https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/kernels
 
 # Classification
+* https://www.kaggle.com/c/titanic
 * https://www.kaggle.com/c/digit-recognizer
 * https://www.kaggle.com/c/forest-cover-type-kernels-only
 * https://www.kaggle.com/c/whats-cooking-kernels-only
@@ -53,6 +54,7 @@
 * https://github.com/andri27-ts/60_Days_RL_Challenge
 
 # Computer Vision
+* https://www.kaggle.com/c/digit-recognizer
 * https://www.kaggle.com/c/quickdraw-doodle-recognition/kernels
 * https://www.kaggle.com/thekiingslayer/mnist-tensorflow-deepcnn
 * https://www.kaggle.com/amarjeet007/visualize-cnn-with-keras
