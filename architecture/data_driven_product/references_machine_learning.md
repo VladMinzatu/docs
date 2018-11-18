@@ -11,6 +11,7 @@
 * https://github.com/uber/horovod
 * https://arxiv.org/pdf/1603.02339.pdf
 * https://guillaumegenthial.github.io/testing.html
+* https://xgboost.readthedocs.io/en/latest/
 * http://jupyter.org/
 
 # Theory
