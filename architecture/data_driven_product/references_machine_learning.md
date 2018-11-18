@@ -62,8 +62,9 @@
 
 # Audio Data
 * https://www.kaggle.com/fizzbuzz/beginner-s-guide-to-audio-data
+* https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/kernels
 
-# Factorization Machines
+# Recommendations
 * https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf
 
 # Model Explanations
