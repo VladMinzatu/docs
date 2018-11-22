@@ -1,3 +1,6 @@
+# Microservices
+* https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029
+
 # Compute Infrastructure
 * http://futuretech.blinkenlights.nl/misc/cpumemory.pdf (Drepper - What every programmer should know about memory)
 * https://dri.es/files/oopsla07-georges.pdf (Statistically rigorous Java performance evaluation)
