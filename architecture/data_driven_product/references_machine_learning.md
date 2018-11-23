@@ -64,6 +64,10 @@
 # Audio Data
 * https://www.kaggle.com/fizzbuzz/beginner-s-guide-to-audio-data
 * https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/kernels
+* https://www.kaggle.com/davids1992/speech-representation-and-data-exploration
+
+# Autoencoders
+* https://www.kaggle.com/shivamb/how-autoencoders-work-intro-and-usecases
 
 # Recommendations
 * https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf
