@@ -1,5 +1,6 @@
 * https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291
 * https://github.com/ageron/handson-ml
+* https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438
 
 # Tools
 * https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057
