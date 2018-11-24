@@ -26,6 +26,7 @@
 
 ## Tools
 * https://community.cloud.databricks.com/
+* https://www.amazon.com/High-Performance-Spark-Practices-Optimizing/dp/1491943203/
 * https://www.tensorflow.org/
 * http://jupyter.org/
 * https://airflow.apache.org/
