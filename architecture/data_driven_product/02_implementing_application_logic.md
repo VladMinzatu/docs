@@ -20,6 +20,11 @@ To the extent that the data freshness allows, all kinds of application logic sho
 ## Rule: Fail fast
 The rule above also allows us to fail fast. Assumptions about the data need to be checked early and strictly and pipelines should fail if issues are detected. This is preferable to diagnosing side effects once the model is live.
 
+## Rule: Handle reusability through data in data pipelines
+Instead of applying the same logic in multiple places and using code libraries (and of course the much worse alternative: code duplication), persist (to stream and/or permanent storage) the intermediate data. This should be less error prone and lends itself better to exploratory data analysis on top of existing production derivations of the data. 
+
+Having intermediate data makes it much easier to collect metrics about intermediate data and implement comparisons to check that the quality of certain data does not degrade and also to debug where issues may stem from when detected.
+
 ## Rule: Be diligent in cleaning upa and keep the stack maintainable
 As the system grows, look for opportunities to remove duplicate efforts and unify data pipelines.
 
