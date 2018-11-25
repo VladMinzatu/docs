@@ -13,6 +13,7 @@ Instead, consider exposing the algorithm outputs on which the product is built (
 High level documentation should be kept up to date, with enough detail so that it is useful for new joiners. 
 The main points that should be covered:
 - Overall architecture (the main components, e.g. batch jobs, streaming jobs, etc.).
+- External data sources, derived data (where it is stored, what the semantics are)
 - Infrastructure (what technologies are used and how they are used for the different components, monitoring)
 - Ways of working (e.g. how different stages of development and prototyping are performed)
 - Separate sections that go into more detail on the live components of each type and what purpose they serve
