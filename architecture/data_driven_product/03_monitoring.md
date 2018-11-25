@@ -20,3 +20,5 @@ For batch jobs, include sanity checks and offline evaluation as part of the DAG 
 
 ## Rule: Use CI/CD and immutable deployments throughout the stack (including data pipelines)
 With a typical production service, you create a new artifact and deploy automatically after a merge to master. This should apply to the model services, their data and the trained models themselves: when a DAG succeeds, this shoudl trigger a redeployment, with self-contained references to immutable model versions and service builds. 
+
+Sufficient automated quality checks have to be in place for automatic deployments throughout the stack, of course.
