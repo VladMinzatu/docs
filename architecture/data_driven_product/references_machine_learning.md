@@ -54,6 +54,7 @@
 * https://gym.openai.com/
 * http://karpathy.github.io/2016/05/31/rl/
 * https://github.com/andri27-ts/60_Days_RL_Challenge
+* https://www.kaggle.com/dhanushkishore/design-of-a-self-learning-tic-tac-toe-program
 
 # Computer Vision
 * https://www.kaggle.com/c/digit-recognizer
@@ -61,6 +62,7 @@
 * https://www.kaggle.com/thekiingslayer/mnist-tensorflow-deepcnn
 * https://www.kaggle.com/amarjeet007/visualize-cnn-with-keras
 * https://www.kaggle.com/bbloggsbott/understanding-convolutional-neural-network
+* https://www.kaggle.com/aruchomu/yolo-v3-object-detection-in-tensorflow/
 
 # Audio Data
 * https://www.kaggle.com/fizzbuzz/beginner-s-guide-to-audio-data
