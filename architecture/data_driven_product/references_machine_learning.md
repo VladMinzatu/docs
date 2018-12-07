@@ -8,6 +8,7 @@
 * https://www.datascienceatthecommandline.com/
 * https://www.tensorflow.org/
 * https://github.com/Hvass-Labs/TensorFlow-Tutorials
+* https://www.oreilly.com/ideas/distributed-tensorflow
 * https://www.tensorflow.org/deploy/distributed
 * https://github.com/uber/horovod
 * https://arxiv.org/pdf/1603.02339.pdf
