@@ -5,6 +5,9 @@
 - https://dri.es/files/oopsla07-georges.pdf (Statistically rigorous Java performance evaluation)
 - https://medium.com/adorsys/jvm-memory-settings-in-a-container-environment-64b0840e1d9e
 
+# Networking
+- https://jvns.ca/blog/2018/07/24/ip-addresses-routing/
+
 # Cloud 
 - https://www.amazon.com/Serverless-Architectures-AWS-examples-Lambda/dp/1617293822
 
