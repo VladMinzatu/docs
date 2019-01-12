@@ -16,3 +16,4 @@
 - https://landing.google.com/sre/book.html
 - http://distributed-systems-observability-ebook.humio.com/
 - https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/
+- https://medium.com/hotels-com-technology/your-latency-metrics-could-be-misleading-you-how-hdrhistogram-can-help-9d545b598374
