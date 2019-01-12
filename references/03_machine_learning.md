@@ -22,6 +22,10 @@
 * https://www.kaggle.com/c/forest-cover-type-kernels-only
 * https://www.kaggle.com/c/whats-cooking-kernels-only
 
+# Gradient Boosting
+* https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d
+* https://explained.ai/gradient-boosting/
+
 # NLP
 * https://www.kaggle.com/dilip990/natural-language-processing-with-python
 * https://www.kaggle.com/kitakoj18/exploring-wine-descriptions-with-nlp-and-kmeans
