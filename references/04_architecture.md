@@ -28,5 +28,14 @@
 - https://highlyscalable.wordpress.com/2013/08/20/in-stream-big-data-processing/
 
 # Tools
+
+### Spark
 - https://spark.apache.org/
+
+### Tensorflow
 - https://www.tensorflow.org/
+
+### DynamoDB
+- https://www.trek10.com/blog/dynamodb-single-table-relational-modeling/
+- https://medium.com/hotels-com-technology/dynamodb-data-modeling-c4b02729ac08
+- https://medium.com/hotels-com-technology/dynamodb-guidelines-for-faster-reads-and-writes-3b172b4c2120
