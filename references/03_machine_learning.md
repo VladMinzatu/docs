@@ -64,3 +64,10 @@
 # Model Explanations
 * https://pair-code.github.io/what-if-tool/
 * https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime
+
+# Tools
+
+### Tensorflow
+* https://medium.com/@taxfromdk/writing-a-new-tensorflow-operation-including-c-cuda-forward-gradient-and-grad-check-3c46708351e7
+* http://davidstutz.de/implementing-tensorflow-operations-in-c-including-gradients/
+* https://stackoverflow.com/questions/44403127/adding-a-gpu-op-in-tensorflow--
