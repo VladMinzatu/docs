@@ -16,6 +16,9 @@
 * https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 * https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/kernels
 
+# Ranking
+* https://towardsdatascience.com/introducing-tf-ranking-f94433c33ff
+
 # Classification
 * https://www.kaggle.com/c/titanic
 * https://www.kaggle.com/c/digit-recognizer
@@ -62,6 +65,7 @@
 * https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf
 
 # Model Explanations
+* https://explained.ai/rf-importance/index.html
 * https://pair-code.github.io/what-if-tool/
 * https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime
 
