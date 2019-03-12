@@ -1,7 +1,11 @@
+# Books
 - https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291 (code: https://github.com/ageron/handson-ml)
 - https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057 (code: https://github.com/jakevdp/PythonDataScienceHandbook)
 - https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438
+
+# Blogs
 - http://bestofml.com/
+- http://colah.github.io/
 - https://lilianweng.github.io/lil-log/
 
 # Data Exploration
