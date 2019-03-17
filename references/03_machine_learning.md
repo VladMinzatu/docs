@@ -41,6 +41,9 @@
 * https://www.kaggle.com/mnoori/an-intro-to-natural-language-processing-w-python
 * https://www.kaggle.com/c/word2vec-nlp-tutorial#description
 
+# Visualization
+* http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
+
 # Deep Learning
 * http://ufldl.stanford.edu/tutorial/
 * https://towardsdatascience.com/lets-code-a-neural-network-in-plain-numpy-ae7e74410795
