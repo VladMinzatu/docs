@@ -1,6 +1,8 @@
 # Machine Learning Engineering
 - https://developers.google.com/machine-learning/guides/
 - https://ai.google/research/pubs/pub43146
+- https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45742.pdf (What's your ML Test score? A rubric for ML production systems)
+- https://storage.googleapis.com/pub-tools-public-publication-data/pdf/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf (The ML test score. A Rubric for ML Production Readiness and Technical Debt Reduction)
 - http://mcfunley.com/data-driven-products-now
 - http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html
 - https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45742.pdf 
